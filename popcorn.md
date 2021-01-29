@@ -1,3 +1,3 @@
-- Near-stock kernel with VDSO
-- Based on CAF tag LA.UM.9.2.r1-02000-SDMxx0.0
-- Compiled with Proton-Clang
+- Reworked VDSO
+- Switch to LZ4 from LZO for faster zram decompression
+- Rework QCACLD from LineageOS kernel to fix WiFi
