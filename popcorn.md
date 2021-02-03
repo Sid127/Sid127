@@ -1,3 +1,3 @@
-- Reworked VDSO
-- Switch to LZ4 from LZO for faster zram decompression
-- Rework QCACLD from LineageOS kernel to fix WiFi
+- Enable USB Fast Charge
+- Add State Notifier
+- Minor GPU optimization
