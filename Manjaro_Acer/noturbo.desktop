@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Intel No Turbo
+Icon=cpupower-gui
+Exec=cpupower-gui pr NoTurbo
+Terminal=false
+StartupNotify=true
+Type=Application
+X-KDE-SubstituteUID=false
