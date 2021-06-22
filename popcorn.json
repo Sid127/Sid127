@@ -1,11 +1,11 @@
 {
     "kernel": {
         "name": "Popcorn Kernel",
-        "version": "r3",
+        "version": "Buttered r1",
         "link": "https://github.com/Sid127/kernel_nokia_sdm660/releases/download/r3/Popcorn-03-02-2021-01-32.zip",
         "changelog_url": "https://raw.githubusercontent.com/Sid127/Sid127/master/popcorn.md",
-        "date": "2021-02-03",
-        "sha1": "ae269802ddd688607e872c9e36fc3c996ab02abb"
+        "date": "2021-06-22",
+        "sha1": "a110adbb9fd7fab175f1cc13917c23a73a3db5e4"
     },
     "support": {
         "link": "https://forum.xda-developers.com/t/hmp-4-4-205-popcorn-kernel-for-nokia-sdm660.4225139/"
