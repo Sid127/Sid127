@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
- <project path="device/qcom/twrp-common" name="TeamWin/android_device_qcom_twrp-common" remote="github" revision="android-9.0" />
  <project path="device/nokia/DRG_sprout" name="Sid127/testing_twrp" remote="github" revision="android-9.0" />
 </manifest>
