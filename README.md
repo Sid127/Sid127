@@ -1,7 +1,7 @@
-### So you have stumbled upon my humble profile 👋
+# NOTICE
 
-- 🔭 I'm working on my Discord Bot, Cutie
-- 🌱 I’m currently in uni and looking forward to becoming an Astrophysicist
-- 🤔 I’m looking for help with finding more time in my day :P
-- 💬 Ask me about obscure tech, any music, and video games. Those things interest me the most
-- 💸 [Donate](https://ko-fi.com/Sid127)
+This account has migrated off of GitHub, towards a self hosted git server (TBD) and a mirror at [CodeBerg](https://codeberg.org/Sid127)
+
+All repos that used to be hosted on this account can now be found at [CodeBerg](https://codeberg.org/Sid127), and will be available at the self hosted solution once decided upon. All future projects can be found there as well
+
+The account will stay in order to be able to contribute to projects that exist on GitHub.
